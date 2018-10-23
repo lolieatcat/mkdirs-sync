@@ -13,3 +13,7 @@ mkdirsSync('./test1/test2/test3/test4');
 # Npm
 --------
 Npm name is 'mkdirs-sync'
+
+#Github
+--------
+https://github.com/molin0000/mkdirs-sync
