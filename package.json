@@ -1,6 +1,6 @@
 {
   "name": "mkdirs-sync",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Make a long directory with multi level in one opt.",
   "main": "index.js",
   "scripts": {
