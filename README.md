@@ -9,6 +9,7 @@ var mkdirsSync  = require('mkdirs-sync');
 
 mkdirsSync('./test1/test2/test3/test4');
 
+```
 # Npm
 --------
 Npm name is 'mkdirs-sync'
